@@ -8,7 +8,7 @@
 
 <!-- Banner Image -->
 <p align="center">
-  <a href="https://files.catbox.moe/c07f3s.jpeg">
+  <a href="https://files.catbox.moe/3u88n0.webp">
     <img src="https://files.catbox.moe/ts2az9.jpg" width="100%" height="auto">
   </a>
 </p>
@@ -23,9 +23,8 @@
   
   <
     <a href='https://dashboard.heroku.com/new?template=https://github.com/Pkdriller/NEXUS-AI/tree/main?tab=readme-ov-file' target="_blank"> <img title="DEPLOY NEXUS-AI BOT" src="https://img.shields.io/badge/🚀_DEPLOY_ON_HEROKU-000000?style=for-the-badge&logo=heroku&logoColor=white&color=FF00FF" width="260" height="50"/>
-  
-
-
+  </a>
+</p>
 <p align="center">
   <a href="https://render.com">
     <img title="DEPLOY ON RENDER" src="https://img.shields.io/badge/🚀_DEPLOY_ON_RENDER-000000?style=for-the-badge&logo=render&logoColor=white&color=61DAFB" width="260" height="50"/>
