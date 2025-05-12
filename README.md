@@ -9,7 +9,7 @@
 <!-- Banner Image -->
 <p align="center">
   <a href="https://files.catbox.moe/c07f3s.jpeg">
-    <img src="https://files.catbox.moe/9n2k7a.jpg" width="100%" height="auto">
+    <img src="https://files.catbox.moe/ts2az9.jpg" width="100%" height="auto">
   </a>
 </p>
 
